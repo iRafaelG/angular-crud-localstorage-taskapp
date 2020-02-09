@@ -1,6 +1,10 @@
-# AngularCrudLocalstorage
+# Angular Crud Localstorage
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4. using TypeScript, BootStrap and local web browser storage.
+
+It's a simple Task Application with CRUD system.
+
+![Angular CRUD Task App](/src/assets/img/AngularCrudLocalstorage.png)
 
 ## Development server
 
